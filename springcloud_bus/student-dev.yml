@@ -133,4 +133,4 @@ management:
   endpoint:
     health:
       show-details: always
-word: zhangsan
+word: lisi
